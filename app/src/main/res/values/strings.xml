@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<string name="app_name">Notetify</string>
+
+<string name="accessibility_service_description">
+        Detects selected text to create notes.
+    </string>
+
+</resources>
